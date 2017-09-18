@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PickerView
 //
-//  Created by meta on 18/09/17.
+//  Created by Jade Silveira on 18/09/17.
 //  Copyright © 2017 Jade. All rights reserved.
 //
 
