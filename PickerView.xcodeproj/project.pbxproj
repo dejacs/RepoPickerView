@@ -12,6 +12,20 @@
 		C005DFD91F70453F0012027F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C005DFD71F70453F0012027F /* Main.storyboard */; };
 		C005DFDB1F70453F0012027F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C005DFDA1F70453F0012027F /* Assets.xcassets */; };
 		C005DFDE1F70453F0012027F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C005DFDC1F70453F0012027F /* LaunchScreen.storyboard */; };
+		C00729481F7048BD0068AF03 /* AlteracaoDadosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00729471F7048BD0068AF03 /* AlteracaoDadosViewController.swift */; };
+		C007294A1F7048FE0068AF03 /* AlteracaoDadosCad1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00729491F7048FE0068AF03 /* AlteracaoDadosCad1ViewController.swift */; };
+		C007294C1F7049310068AF03 /* AlteracaoDadosCad2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C007294B1F7049310068AF03 /* AlteracaoDadosCad2ViewController.swift */; };
+		C007294E1F70496B0068AF03 /* PickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C007294D1F70496B0068AF03 /* PickerViewController.swift */; };
+		C00729501F70498C0068AF03 /* PickerViewPais.swift in Sources */ = {isa = PBXBuildFile; fileRef = C007294F1F70498C0068AF03 /* PickerViewPais.swift */; };
+		C00729521F7049BD0068AF03 /* PickerViewTipoDoc.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00729511F7049BD0068AF03 /* PickerViewTipoDoc.swift */; };
+		C00729541F7049DE0068AF03 /* PickerViewUF.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00729531F7049DE0068AF03 /* PickerViewUF.swift */; };
+		C00729561F704A010068AF03 /* Cadastro.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00729551F704A010068AF03 /* Cadastro.swift */; };
+		C00729581F704A0B0068AF03 /* Cadastro1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00729571F704A0B0068AF03 /* Cadastro1.swift */; };
+		C007295A1F704A130068AF03 /* Cadastro2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00729591F704A130068AF03 /* Cadastro2.swift */; };
+		C007295C1F704A1F0068AF03 /* Pais.swift in Sources */ = {isa = PBXBuildFile; fileRef = C007295B1F704A1F0068AF03 /* Pais.swift */; };
+		C007295E1F704A270068AF03 /* TipoDoc.swift in Sources */ = {isa = PBXBuildFile; fileRef = C007295D1F704A270068AF03 /* TipoDoc.swift */; };
+		C00729601F704AA80068AF03 /* AlteracaoDadosCad1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = C007295F1F704AA80068AF03 /* AlteracaoDadosCad1View.swift */; };
+		C00729621F704AB10068AF03 /* AlteracaoDadosCad2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00729611F704AB10068AF03 /* AlteracaoDadosCad2View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +36,20 @@
 		C005DFDA1F70453F0012027F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C005DFDD1F70453F0012027F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C005DFDF1F70453F0012027F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C00729471F7048BD0068AF03 /* AlteracaoDadosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlteracaoDadosViewController.swift; sourceTree = "<group>"; };
+		C00729491F7048FE0068AF03 /* AlteracaoDadosCad1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlteracaoDadosCad1ViewController.swift; sourceTree = "<group>"; };
+		C007294B1F7049310068AF03 /* AlteracaoDadosCad2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlteracaoDadosCad2ViewController.swift; sourceTree = "<group>"; };
+		C007294D1F70496B0068AF03 /* PickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickerViewController.swift; sourceTree = "<group>"; };
+		C007294F1F70498C0068AF03 /* PickerViewPais.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickerViewPais.swift; sourceTree = "<group>"; };
+		C00729511F7049BD0068AF03 /* PickerViewTipoDoc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickerViewTipoDoc.swift; sourceTree = "<group>"; };
+		C00729531F7049DE0068AF03 /* PickerViewUF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickerViewUF.swift; sourceTree = "<group>"; };
+		C00729551F704A010068AF03 /* Cadastro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cadastro.swift; sourceTree = "<group>"; };
+		C00729571F704A0B0068AF03 /* Cadastro1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cadastro1.swift; sourceTree = "<group>"; };
+		C00729591F704A130068AF03 /* Cadastro2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cadastro2.swift; sourceTree = "<group>"; };
+		C007295B1F704A1F0068AF03 /* Pais.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pais.swift; sourceTree = "<group>"; };
+		C007295D1F704A270068AF03 /* TipoDoc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipoDoc.swift; sourceTree = "<group>"; };
+		C007295F1F704AA80068AF03 /* AlteracaoDadosCad1View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlteracaoDadosCad1View.swift; sourceTree = "<group>"; };
+		C00729611F704AB10068AF03 /* AlteracaoDadosCad2View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlteracaoDadosCad2View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +82,10 @@
 		C005DFD21F70453F0012027F /* PickerView */ = {
 			isa = PBXGroup;
 			children = (
+				C00729461F7048730068AF03 /* PickerViews */,
+				C00729451F7048690068AF03 /* Controller */,
+				C00729441F7048640068AF03 /* View */,
+				C00729431F70485B0068AF03 /* Model */,
 				C005DFD31F70453F0012027F /* AppDelegate.swift */,
 				C005DFD51F70453F0012027F /* ViewController.swift */,
 				C005DFD71F70453F0012027F /* Main.storyboard */,
@@ -62,6 +94,48 @@
 				C005DFDF1F70453F0012027F /* Info.plist */,
 			);
 			path = PickerView;
+			sourceTree = "<group>";
+		};
+		C00729431F70485B0068AF03 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				C00729551F704A010068AF03 /* Cadastro.swift */,
+				C00729571F704A0B0068AF03 /* Cadastro1.swift */,
+				C00729591F704A130068AF03 /* Cadastro2.swift */,
+				C007295B1F704A1F0068AF03 /* Pais.swift */,
+				C007295D1F704A270068AF03 /* TipoDoc.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		C00729441F7048640068AF03 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C007295F1F704AA80068AF03 /* AlteracaoDadosCad1View.swift */,
+				C00729611F704AB10068AF03 /* AlteracaoDadosCad2View.swift */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		C00729451F7048690068AF03 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				C00729471F7048BD0068AF03 /* AlteracaoDadosViewController.swift */,
+				C00729491F7048FE0068AF03 /* AlteracaoDadosCad1ViewController.swift */,
+				C007294B1F7049310068AF03 /* AlteracaoDadosCad2ViewController.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		C00729461F7048730068AF03 /* PickerViews */ = {
+			isa = PBXGroup;
+			children = (
+				C007294D1F70496B0068AF03 /* PickerViewController.swift */,
+				C007294F1F70498C0068AF03 /* PickerViewPais.swift */,
+				C00729511F7049BD0068AF03 /* PickerViewTipoDoc.swift */,
+				C00729531F7049DE0068AF03 /* PickerViewUF.swift */,
+			);
+			name = PickerViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,8 +210,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C007294E1F70496B0068AF03 /* PickerViewController.swift in Sources */,
+				C007294A1F7048FE0068AF03 /* AlteracaoDadosCad1ViewController.swift in Sources */,
 				C005DFD61F70453F0012027F /* ViewController.swift in Sources */,
+				C00729621F704AB10068AF03 /* AlteracaoDadosCad2View.swift in Sources */,
+				C00729541F7049DE0068AF03 /* PickerViewUF.swift in Sources */,
+				C007294C1F7049310068AF03 /* AlteracaoDadosCad2ViewController.swift in Sources */,
+				C007295A1F704A130068AF03 /* Cadastro2.swift in Sources */,
+				C007295E1F704A270068AF03 /* TipoDoc.swift in Sources */,
+				C00729481F7048BD0068AF03 /* AlteracaoDadosViewController.swift in Sources */,
+				C007295C1F704A1F0068AF03 /* Pais.swift in Sources */,
+				C00729601F704AA80068AF03 /* AlteracaoDadosCad1View.swift in Sources */,
+				C00729561F704A010068AF03 /* Cadastro.swift in Sources */,
+				C00729521F7049BD0068AF03 /* PickerViewTipoDoc.swift in Sources */,
 				C005DFD41F70453F0012027F /* AppDelegate.swift in Sources */,
+				C00729501F70498C0068AF03 /* PickerViewPais.swift in Sources */,
+				C00729581F704A0B0068AF03 /* Cadastro1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +385,7 @@
 				C005DFE41F70453F0012027F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
