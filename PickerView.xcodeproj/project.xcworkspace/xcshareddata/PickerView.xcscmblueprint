@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A3576F5BE9EF9449E20503C9F3B04B0EC18EA1F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A3576F5BE9EF9449E20503C9F3B04B0EC18EA1F0" : 9223372036854775807,
+    "2105F8AE6E7BDF22AD4A8C8E8483533B2DD39F14" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8AF3A3D9-AD65-4B3E-B1AB-BDA596177C1A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A3576F5BE9EF9449E20503C9F3B04B0EC18EA1F0" : "PickerView\/",
+    "2105F8AE6E7BDF22AD4A8C8E8483533B2DD39F14" : "updateObject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PickerView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PickerView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dejacs\/PickerView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2105F8AE6E7BDF22AD4A8C8E8483533B2DD39F14"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dejacs\/RepoPickerView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3576F5BE9EF9449E20503C9F3B04B0EC18EA1F0"
+    }
+  ]
+}
