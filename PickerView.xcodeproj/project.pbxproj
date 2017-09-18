@@ -26,6 +26,8 @@
 		C007295E1F704A270068AF03 /* TipoDoc.swift in Sources */ = {isa = PBXBuildFile; fileRef = C007295D1F704A270068AF03 /* TipoDoc.swift */; };
 		C00729601F704AA80068AF03 /* AlteracaoDadosCad1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = C007295F1F704AA80068AF03 /* AlteracaoDadosCad1View.swift */; };
 		C00729621F704AB10068AF03 /* AlteracaoDadosCad2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00729611F704AB10068AF03 /* AlteracaoDadosCad2View.swift */; };
+		C00729651F704C4E0068AF03 /* AlteracaoDadosCad1.xib in Resources */ = {isa = PBXBuildFile; fileRef = C00729631F704C4E0068AF03 /* AlteracaoDadosCad1.xib */; };
+		C00729661F704C4E0068AF03 /* AlteracaoDadosCad2.xib in Resources */ = {isa = PBXBuildFile; fileRef = C00729641F704C4E0068AF03 /* AlteracaoDadosCad2.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +52,8 @@
 		C007295D1F704A270068AF03 /* TipoDoc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipoDoc.swift; sourceTree = "<group>"; };
 		C007295F1F704AA80068AF03 /* AlteracaoDadosCad1View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlteracaoDadosCad1View.swift; sourceTree = "<group>"; };
 		C00729611F704AB10068AF03 /* AlteracaoDadosCad2View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlteracaoDadosCad2View.swift; sourceTree = "<group>"; };
+		C00729631F704C4E0068AF03 /* AlteracaoDadosCad1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = AlteracaoDadosCad1.xib; path = ../../updateObject/updateObject/View/AlteracaoDadosCad1.xib; sourceTree = "<group>"; };
+		C00729641F704C4E0068AF03 /* AlteracaoDadosCad2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = AlteracaoDadosCad2.xib; path = ../../updateObject/updateObject/View/AlteracaoDadosCad2.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +115,8 @@
 		C00729441F7048640068AF03 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				C00729631F704C4E0068AF03 /* AlteracaoDadosCad1.xib */,
+				C00729641F704C4E0068AF03 /* AlteracaoDadosCad2.xib */,
 				C007295F1F704AA80068AF03 /* AlteracaoDadosCad1View.swift */,
 				C00729611F704AB10068AF03 /* AlteracaoDadosCad2View.swift */,
 			);
@@ -197,7 +203,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C00729661F704C4E0068AF03 /* AlteracaoDadosCad2.xib in Resources */,
 				C005DFDE1F70453F0012027F /* LaunchScreen.storyboard in Resources */,
+				C00729651F704C4E0068AF03 /* AlteracaoDadosCad1.xib in Resources */,
 				C005DFDB1F70453F0012027F /* Assets.xcassets in Resources */,
 				C005DFD91F70453F0012027F /* Main.storyboard in Resources */,
 			);
